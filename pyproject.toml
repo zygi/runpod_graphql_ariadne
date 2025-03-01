@@ -1,7 +1,7 @@
 [project]
 name = "runpod_ariadne"
 version = "0.1.0"
-description = "Add your description here"
+description = "A third-party RunPod GraphQL client in Python generated using Ariadne."
 readme = "README.md"
 requires-python = ">=3.10"
 
